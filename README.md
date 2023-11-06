@@ -1,6 +1,6 @@
 # Hi there :wave:, I am Tirth Golwala
 ## Student
-Sophomore at the Indian Institute of Technology, Delhi, pursuing BTech in Mathematics and Computing
+I am a sophomore at the Indian Institute of Technology, Delhi, pursuing BTech in Mathematics and Computing
 
 ✉️ You can reach me at [tpgolwala@gmail.com](tpgolwala@gmail.com)
 
